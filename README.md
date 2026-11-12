@@ -78,17 +78,27 @@ An AI project exploring retrieval-augmented question answering.
 <td width="50%" valign="top">
 
 ### 📅 Academic Calendar
-A calendar-focused application for organizing academic schedules.
+An interactive calendar experience with date-range selection, notes and themed monthly views.
 
 [Explore repository ↗](https://github.com/RealRajat/AcademicCalendar)
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 💸 Expense Tracker
-A project for recording and keeping track of expenses.
+A full-stack expense manager with JWT authentication, transaction APIs and MongoDB persistence.
 
 [Explore repository ↗](https://github.com/RealRajat/Expensetracker)
+
+</td>
+<td width="50%" valign="top">
+
+### 🗂️ Contact Manager
+A Python desktop app for adding, searching, updating and deleting contacts.
+
+[Explore repository ↗](https://github.com/RealRajat/CodSoft_Task3)
 
 </td>
 </tr>
