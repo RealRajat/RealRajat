@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient" />
+<img width="100%" src="https://raw.githubusercontent.com/RealRajat/RealRajat/main/.github/assets/neon-divider.svg" alt="Animated neon circuit divider" />
 
 # RAJAT KUSHWAHA
 ### `Software Developer • CSE • Builder`
